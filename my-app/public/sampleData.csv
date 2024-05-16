@@ -1,0 +1,39 @@
+Geopolitical Entity,Year,Sector,Level_Sankey,Lifecycle Step,Source,Target,Flow,Unit,Value (THOUSAND TONS)
+Austria,2008,Agriculture,L2 - Biomass by type,Animal based food,Feed & bedding,Animal-based food,Agriculture biomass,1000 T of dry matter (gross trade),546.6332656623055
+Austria,2008,Agriculture,L2 - Biomass by type,Animal based food,Feed & bedding,Animal-based food,Agriculture biomass,1000 T of dry matter (net trade),546.6332656623055
+Austria,2008,Agriculture,L2 - Biomass by type,Imports,Imports,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),11761.42290025698
+Austria,2008,Agriculture,L2 - Biomass by type,Imports,Imports,Biomass supply,Agriculture biomass,1000 T of dry matter (net trade),3699.310399835089
+Austria,2008,Agriculture,L2 - Biomass by type,Inner uses,Biofuels,Bioenergy,Agriculture biomass,1000 T of dry matter (gross trade),0
+Austria,2008,Agriculture,L2 - Biomass by type,Inner uses,Biofuels,Bioenergy,Agriculture biomass,1000 T of dry matter (net trade),0
+Austria,2008,Agriculture,L2 - Biomass by type,Production,Crop production,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),7580.479662
+Austria,2008,Agriculture,L2 - Biomass by type,Production,Crop production,Biomass supply,Agriculture biomass,1000 T of dry matter (net trade),7580.479662
+Austria,2008,Agriculture,L2 - Biomass by type,Production,Grazing,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),2473.38
+Austria,2008,Agriculture,L2 - Biomass by type,Production,Grazing,Biomass supply,Agriculture biomass,1000 T of dry matter (net trade),2473.38
+Austria,2008,Agriculture,L2 - Biomass by type,Production,Residues,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),1531.49008535
+Austria,2008,Agriculture,L2 - Biomass by type,Production,Residues,Biomass supply,Agriculture biomass,1000 T of dry matter (net trade),1531.49008535
+Austria,2008,Agriculture,L2 - Biomass by type,Uses,Biomass supply,Biofuels,Agriculture biomass,1000 T of dry matter (gross trade),0
+Austria,2008,Agriculture,L2 - Biomass by type,Uses,Biomass supply,Biofuels,Agriculture biomass,1000 T of dry matter (net trade),0
+Austria,2008,Agriculture,L3 - Biomass components,Animal based food,Feed & bedding,Animal-based food,Carbohydrates,1000 T of dry matter (gross trade),70.22913253481184
+Austria,2008,Agriculture,L3 - Biomass components,Animal based food,Feed & bedding,Animal-based food,Carbohydrates,1000 T of dry matter (net trade),70.22913253481184
+Austria,2008,Agriculture,L3 - Biomass components,Imports,Imports,Biomass supply,Animal products (feed eq.),1000 T of dry matter (gross trade),6729.126286589961
+Austria,2008,Agriculture,L3 - Biomass components,Imports,Imports,Biomass supply,Animal products (feed eq.),1000 T of dry matter (net trade),2259.9113000194557
+Austria,2008,Agriculture,L3 - Biomass components,Inner uses,Biofuels,Bioenergy,Agriculture biomass,1000 T of dry matter (gross trade),0
+Austria,2008,Agriculture,L3 - Biomass components,Inner uses,Biofuels,Bioenergy,Agriculture biomass,1000 T of dry matter (net trade),0
+Austria,2008,Agriculture,L3 - Biomass components,Production,Crop production,Biomass supply,Cereals,1000 T of dry matter (gross trade),4645.315025
+Austria,2008,Agriculture,L3 - Biomass components,Production,Crop production,Biomass supply,Cereals,1000 T of dry matter (net trade),4645.315025
+Austria,2008,Agriculture,L3 - Biomass components,Production,Grazing,Biomass supply,Agriculture biomass,1000 T of dry matter (gross trade),2473.38
+Austria,2008,Agriculture,L3 - Biomass components,Production,Grazing,Biomass supply,Agriculture biomass,1000 T of dry matter (net trade),2473.38
+Austria,2008,Agriculture,L3 - Biomass components,Production,Residues,Biomass supply,Cereals,1000 T of dry matter (gross trade),1326.40495725
+Austria,2008,Agriculture,L3 - Biomass components,Production,Residues,Biomass supply,Cereals,1000 T of dry matter (net trade),1326.40495725
+Austria,2008,Agriculture,L3 - Biomass components,Uses,Biomass supply,Biofuels,Agriculture biomass,1000 T of dry matter (gross trade),0
+Austria,2008,Agriculture,L3 - Biomass components,Uses,Biomass supply,Biofuels,Agriculture biomass,1000 T of dry matter (net trade),0
+Austria,2008,All sectors,L1 - Biomass by sector,Uses,Supply,Biomass for energy,Agriculture,1000 T of dry matter (gross trade),0
+Austria,2008,All sectors,L1 - Biomass by sector,Uses,Supply,Biomass for energy,Agriculture,1000 T of dry matter (net trade),0
+Austria,2008,All sectors,L1 - Biomass by sector,Uses,Supply,Biomaterials,Agriculture,1000 T of dry matter (gross trade),611.8223563006477
+Austria,2008,All sectors,L1 - Biomass by sector,Uses,Supply,Biomaterials,Agriculture,1000 T of dry matter (net trade),0
+Austria,2008,Fisheries,L3 - Biomass components,Production,Aquaculture,Biomass supply,Aquaculture,1000 T of dry matter (gross trade),0.48825
+Austria,2008,Fisheries,L3 - Biomass components,Production,Aquaculture,Biomass supply,Aquaculture,1000 T of dry matter (net trade),0.48825
+Austria,2008,Fisheries,L3 - Biomass components,Production,Capture fisheries,Biomass supply,Capture fisheries,1000 T of dry matter (gross trade),0.07600000000000001
+Austria,2008,Fisheries,L3 - Biomass components,Production,Capture fisheries,Biomass supply,Capture fisheries,1000 T of dry matter (net trade),0.076
+Austria,2008,Fisheries,L3 - Biomass components,Uses,Biomass supply,Aquatic-based food,Aquatic-based food,1000 T of dry matter (gross trade),29.450200000000002
+Austria,2008,Fisheries,L3 - Biomass components,Uses,Biomass supply,Aquatic-based food,Aquatic-based food,1000 T of dry matter (net trade),29.450200000000002
